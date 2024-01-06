@@ -1,0 +1,6 @@
+require 'history/client'
+require 'history/strict_hash'
+require 'history/query_result'
+require 'history/search_params'
+require 'history/audit'
+require 'history/change_set'
